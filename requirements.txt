@@ -1,0 +1,3 @@
+pandas
+requests_cache
+bs4
