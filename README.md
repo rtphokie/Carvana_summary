@@ -9,6 +9,9 @@ As you browse the Carvana website, add the vehilce ID (the Carvana one in the UR
 
 ## Usage
 
+Once inside your favorite virtual environment, 
+
 ```
+% pip install -r requirements.txt
 % python3 carvana_compare.py
 ```
